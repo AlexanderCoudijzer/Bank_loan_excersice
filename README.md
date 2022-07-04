@@ -1,2 +1,2 @@
-# Bank_loan_excersice
+# Bank_loan_exercise
 Data Analysis and modelling of loan defaults 
